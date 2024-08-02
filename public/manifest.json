@@ -1,0 +1,8 @@
+{
+  "name": "Selance",
+  "short_name": "Selance",
+  "description": "Selance Software Development Agency",
+  "start_url": "/",
+  "background_color": "#070808",
+  "theme_color": "hsl(225, 100%, 50%)"
+}
